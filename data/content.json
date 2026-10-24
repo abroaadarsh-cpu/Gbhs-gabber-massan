@@ -25,7 +25,14 @@
  },
  "staff": [],
  "news": [],
- "images": [],
+ "images": [
+  {
+   "id": "mvmatjokfo7k",
+   "file": "uploads/mvmasz9omxh0-IMG-20261024-WA0001.jpg",
+   "caption": "Sae",
+   "date": "2026-10-24"
+  }
+ ],
  "videos": [],
  "pdfs": [],
  "essays": []
