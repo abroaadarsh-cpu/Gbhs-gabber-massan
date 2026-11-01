@@ -26,7 +26,14 @@
   "text": "Freedom is not an end it's a beginning"
  },
  "staff": [],
- "news": [],
+ "news": [
+  {
+   "title": "school",
+   "date": "2026-11-01",
+   "text": "school is aplace where we learn how to read and write",
+   "id": "mvxfikgtdn07"
+  }
+ ],
  "images": [
   {
    "id": "mvxfb8fzw61g",
